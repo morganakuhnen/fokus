@@ -14,7 +14,7 @@ mantendo uma boa relação entre trabalho e descanso.
 
 
 ## Recursos
-- Timer Persoalizado: Escolha entre períodos de foco, descanso curto e descanso longo.
+- Timer Personalizado: Escolha entre períodos de foco, descanso curto e descanso longo.
 - Música de Fundo: Ative ou desative a música de fundo.
 - Contagem Regressiva: Acompanhe o tempo restante em um timer visual.
 - Design Responsivo: A interface se adapta a diferentes tamanhos de tela.
